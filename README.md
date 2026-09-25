@@ -23,7 +23,7 @@ Contributor to [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya):
   <img src="https://img.shields.io/badge/Spring-ecosystem-green" alt="Spring"/>
   <img src="https://img.shields.io/badge/Python-inference-yellow" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-benchmarking-ee4c2c" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/CUDA-GTX%201050%20Ti-76b900" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/CUDA-GPU%20inference-76b900" alt="CUDA"/>
 </p>
 
 ## 📊 GitHub stats
