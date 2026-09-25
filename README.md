@@ -26,13 +26,6 @@ Contributor to [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya):
   <img src="https://img.shields.io/badge/CUDA-GPU%20inference-76b900" alt="CUDA"/>
 </p>
 
-## 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GaotianJin&show_icons=true&hide_border=true&count_private=true" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaotianJin&layout=compact&hide_border=true&exclude_repo=Python-100-Days,Python,blog-sample,12306,arch-installation-scripts" alt="langs"/>
-</p>
-
 ---
 
 *Forks are my reading list — things I'm studying or hacking on.*
